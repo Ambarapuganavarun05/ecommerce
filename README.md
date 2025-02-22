@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/), [MUI v5](https://mui.com/) and [Typesc
 
 ## Getting Started
 
+
 1. First, Clone the project.
 2. (Optional) If you want, You can also change the project name to whatever your like and also add the project name in the `package.json`.
 3. Run this command in the project directory to install dependencies:
